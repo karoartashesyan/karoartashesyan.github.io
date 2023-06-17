@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+.games{
+    width: 100%;
+    background-color: rgb(0, 8, 255);
+    text-align: center;
+}
+ .games img{
+    width: 300px;
+    height: 200px;
+ }
+h2{
+    text-align: center;
+}
+
+.fifa-img{
+    text-align: center;
+    background-color: aqua;
+}
+
+.fifa-img img{
+    width: 250px;
+    height: 200px;
+    margin: 15px;
+}
+
+.Football{
+    background-color: aquamarine;
+    color: brown;
+    border: 10px dotted blueviolet;
+    width: 900px;
+    text-align: center;
+    height: 400px;
+    margin: 50px auto;
+}
+
+
+
+
+
+
